@@ -63,9 +63,6 @@ Welcome to my GitHub profile! I'm a passionate **third-year computer science eng
   ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
   ![Apache NiFi](https://img.shields.io/badge/-Apache%20NiFi-5E2B29?style=flat-square&logo=apache-nifi&logoColor=white)
 
-- **Cloud & Deployment**: 
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
 ## 🧑‍💼 Soft Skills
@@ -75,6 +72,7 @@ Welcome to my GitHub profile! I'm a passionate **third-year computer science eng
 
 ## 🌐 Let's Connect!
 - [LinkedIn: Layel Hajji](https://www.linkedin.com/in/layelhajji)
+-  [Email:laiel.hajji](laiel.hajji@ensi-uma.tn)
 
 Thank you for visiting my profile! 😊
 
