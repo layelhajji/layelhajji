@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **third-year computer science eng
 ## 🚀 About Me
 - 👩‍💻 I specialize in **web development**, **mobile applications**, and **artificial intelligence**. 
 - 🧠 Passionate about creating meaningful solutions that improve everyday lives.
-- 📫 Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/layelhajji)** or via **[Email](laiel.hajji@ensi-uma.tn)**.
+- 📫 Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/layel-hajji/)** or via **[Email](laiel.hajji@ensi-uma.tn)**.
 
 
 
@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I'm a passionate **third-year computer science eng
 - Fast learner 📚
 
 ## 🌐 Let's Connect!
-- [LinkedIn: Layel Hajji](https://www.linkedin.com/in/layelhajji)
+- [LinkedIn: Layel Hajji](https://www.linkedin.com/in/layel-hajji)
 -  [Email:laiel.hajji](laiel.hajji@ensi-uma.tn)
 
 Thank you for visiting my profile! 😊
