@@ -4,9 +4,8 @@ Welcome to my GitHub profile! I'm a passionate **third-year computer science eng
 
 ## 🚀 About Me
 - 👩‍💻 I specialize in **web development**, **mobile applications**, and **artificial intelligence**. 
-- 💻 Currently working with **Flutter**, **React**, **Node.js**, and **MongoDB**.
 - 🧠 Passionate about creating meaningful solutions that improve everyday lives.
-- 📫 Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/layelhajji)** or via **Email** laiel.hajji@ensi-uma.tn.
+- 📫 Feel free to reach out to me on **[LinkedIn](https://www.linkedin.com/in/layelhajji)** or via **[Email](laiel.hajji@ensi-uma.tn)**.
 
 
 
